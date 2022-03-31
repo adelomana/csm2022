@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://tinyurl.com/5sznepef" target="_blank">Registration is still open!</a>
-</div> 
+</div> <br/> <br/>
 
 <div align="justify">
 Systems biology is an interdisciplinary field that studies the biological phenomena that emerge from multiple interacting biological elements.
