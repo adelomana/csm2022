@@ -1,5 +1,5 @@
-<div align="justify">
-<a href="https://tinyurl.com/5sznepef">Registration is still open!</a>
+<div align="center">
+<a href="https://tinyurl.com/5sznepef" target="_blank">Registration is still open!</a>
 </div> 
 
 <div align="justify">
