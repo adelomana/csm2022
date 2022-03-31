@@ -5,7 +5,7 @@ In this course, we will prioritise aspects of systems biology relevant to human 
 </div>
 
 # About
-The course dedicates each day to a systems biology highlight relevant to human health:
+The course dedicates each day to a systems biology highlight relevant to human health
 
 | Week day      | Clinical challenge | Computational approach |
 | ------------- | ------------- | ------------- | ------------- |
