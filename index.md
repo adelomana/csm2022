@@ -78,5 +78,3 @@ TBA
 <div align="justify">
 Both online via Zoom and onsite at <a href="https://tinyurl.com/5sznepef" target="_blank">BAU Barcelona</a>.
 </div>
-
-https://tinyurl.com/35kncjyc
