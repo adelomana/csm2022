@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: [Computational Systems Medicine]
-description: [University of Vic - Central University of Catalonia]
+description: [University of Vic - Central University of Catalonia
+new line]
 github:
   is_project_page: false
 color:
