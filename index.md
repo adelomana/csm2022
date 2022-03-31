@@ -43,6 +43,9 @@ However, a basic understanding of both molecular biology and Python/R is desirab
 Students without prior knowledge of cell and molecular biology are warmly encouraged to review the basic concepts in those fields; similarly, students without programming experience are also encouraged to follow any of the many free basic introductory hands-on courses to Python available online.
 </div>
 
+# Registration
+Course registration at <a href="https://tinyurl.com/5sznepef" target="_blank">UVic course website</a>.
+
 # Speakers
 TBA
 
