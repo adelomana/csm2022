@@ -1,4 +1,6 @@
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+remote_theme: tuur29/pages-themes-cayman
+
 
 title: [Computational systems medicine course]
 
@@ -6,6 +8,7 @@ description: [
 4 - 8 July 2022<br/> <br/>
 Both online and onsite at BAU Barcelona<br/>
 University of Vic - Central University of Catalonia<br/> <br/>
+Registration is still open!
 ]
 
 
