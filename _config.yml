@@ -1,6 +1,4 @@
-#theme: jekyll-theme-cayman
-remote_theme: tuur29/pages-themes-cayman
-
+theme: jekyll-theme-cayman
 
 title: [Computational systems medicine course]
 
@@ -11,6 +9,13 @@ University of Vic - Central University of Catalonia<br/> <br/>
 Registration is still open!
 ]
 
-
 github:
   is_project_page: false
+
+colors:
+    gradient_left: "#155799"
+    gradient_right: "#159957"
+    header: "#fff"
+    android_theme: "#000" # this default to gradient_color
+    link: "#1e6bb8" # this default to gradient_color
+    section_title: "#155799" # this default to gradient_color
