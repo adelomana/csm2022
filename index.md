@@ -3,21 +3,23 @@ Understanding the cellular and molecular mechanisms of biological systems is a p
 In this course, we will prioritise aspects of systems biology relevant to human health and disease.  
 
 # About
-The course dedicates each day to a systems biology topic relevant to human health:
+The course dedicates each day to a systems biology highlight relevant to human health:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Week day      | Clinical challenge | Computational approach |
+| ------------- | ------------- | ------------- | ------------- |
+| Monday  | Disease subtyping  | Clustering |
+| Tuesday  | Biomarker discovery | Classification |
+| Wednesday  | Disease mechanism discovery  |Gene regulatory network inference |
+| Thursday  | Microbial interactions  | Microbiome analysis |
 
-During the first four days students  divided in four days  an introduction to a selected topics of systems biology.
+On Friday we will have a symposium and round table on the topic of *Solutions against infectious disease*.
 
+# Structure
+The course activities mimic a research experience, including learning about cutting-edge research, understanding the principles behind current research, reading and interpreting scientific papers, using computational tools in Python and R, working on a research project and presentation of scientific results.
 
-1) basic principles in modelling molecular networks, both gene regulatory and metabolic networks; 2) cellular phenomena that support homeostasis like tissue morphogenesis and microbiome resilience, and 3) learning of molecular patterns relevant to human diseases in genomics data at a population scale, such as patient classification and biomarker discovery. In this manner, the course covers the three major scales in systems biology: molecules, cells and organisms.
-The course activities mimic a research experience, including reading and interpreting scientific papers, using computational tools in Python and R, working on a research project and presentation of scientific results.
-Lectures will comprise both (1) presentations on foundational concepts and (2) hands-on coding practical sessions. The course will be taught in English.
+structure
 
-
+The course will be taught in English.
 
 
 # Speakers
