@@ -44,7 +44,7 @@ Students without prior knowledge of cell and molecular biology are warmly encour
 </div>
 
 # Registration
-Course registration at <a href="https://tinyurl.com/5sznepef" target="_blank">UVic course website</a>.
+Course registration at the University of Vic <a href="https://tinyurl.com/5sznepef" target="_blank">course website</a>.
 
 # Speakers
 TBA
