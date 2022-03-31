@@ -5,7 +5,7 @@ In this course, we will prioritise aspects of systems biology relevant to human 
 </div>
 
 # About
-The course dedicates each day to a systems biology highlight relevant to human health
+The course dedicates each day to a systems biology highlight relevant to human health:
 
 | Week day      | Clinical challenge | Computational approach |
 | ------------- | ------------- | ------------- | ------------- |
@@ -17,6 +17,7 @@ The course dedicates each day to a systems biology highlight relevant to human h
 On Friday we will have a symposium and round table on the topic of __Solutions against infectious disease__.
 
 # Structure
+<div align="justify">
 The course activities mimic the research experience---learning about cutting-edge research, understanding the principles behind current research, reading and interpreting scientific papers, using computational tools in Python and R, working on a research project and presentation of scientific results.
 
 Monday to Thursday, we will first start with a fascinating lecture about the state-of-the-art research in the field by an established researcher.
@@ -27,13 +28,16 @@ Students will form groups of three to five people to work together cooperatively
 Finally, student groups will present to the audience their new findings and interpretations at the end of the day.
 
 The course will be taught in English.
+</div>
 
 # Audience
+<div align="justify">
 The intended audience for this course is graduate students, postdocs, principal investigators, industry scientists, educators, clinicians, or any other variety of person from across the globe interested in systems biology approaches applied to quantify health and disease.
 
 No prior knowledge of molecular biology or programming is required.
 However, a basic understanding of both molecular biology and Python/R is desirable.
 Students without prior knowledge of cell and molecular biology are warmly encouraged to review the basic concepts in those fields; similarly, students without programming experience are also encouraged to follow any of the many free basic introductory hands-on courses to Python available online.
+</div>
 
 # Speakers
 TBA
@@ -45,6 +49,7 @@ TBA
 TBA
 
 # Course requirements
+<div align="justify">
 During the course we will use Zoom and Slack as primary tools for communication. Please make sure you have them installed in your computer.
 
 Course materials will be distributed via the course GitHub repository.
@@ -57,6 +62,7 @@ Students without prior knowledge of cell and molecular biology are warmly encour
 Examples of external publicly available materials introductory to molecular biology can be found here: a short introduction and an extensive introduction. Similarly, students without programming experience are warmly advised to follow any of the many free basic introductory hands-on courses to Python available online.  
 
 You will need to bring your own laptop.
+</div>
 
 # Course schedule
 TBA
