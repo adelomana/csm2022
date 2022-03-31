@@ -3,3 +3,7 @@ title: [Computational Systems Medicine]
 description: [University of Vic - Central University of Catalonia]
 github:
   is_project_page: false
+color:
+  header: "#000"
+  gradient_left: "#e53935"
+  gradient_right: "#f57c00"
