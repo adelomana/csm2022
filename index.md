@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://tinyurl.com/5sznepef" target="_blank">Registration is still open!</a>
+<a href="https://tinyurl.com/ycks8c4u" target="_blank">Registration is still open!</a>
 </div> <br/> <br/>
 
 <div align="justify">
@@ -44,7 +44,7 @@ Students without prior knowledge of cell and molecular biology are warmly encour
 </div>
 
 # Registration
-Course registration at the University of Vic <a href="https://tinyurl.com/5sznepef" target="_blank">course website</a>.
+Course registration at the University of Vic <a href="https://tinyurl.com/ycks8c4u" target="_blank">course website</a>.
 
 # Speakers
 TBA
